@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://i.pinimg.com/originals/4d/55/6b/4d556b7a12b494226be5e654256ec4e9.gif" />
-</h1>
-    <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 <p align='center'>
 I'm Jhey.
 </p>
