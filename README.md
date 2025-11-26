@@ -4,7 +4,7 @@
 <h1 align='center'> Hi.
 <img src="https://i.pinimg.com/originals/50/55/45/505545dd2f219e82931d92a77c7ba303.gif" height="54"/></h1>
 <p align='center'>
-I'm Jhey.
+<i>Фурута</i>
 </p>
 <p align='center'>Настолько уникального прокрастинатора и бездельника вам не найти</p>
 
