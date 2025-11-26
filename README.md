@@ -8,10 +8,11 @@
 </p>
 <p align='center'>Настолько уникального прокрастинатора и бездельника вам не найти</p>
 
-<h1><i>Изучаю/пишу на:</i></h1>
+<h1 align='center'><i>Изучаю/пишу на:</i></h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
 </div>
+<h1 align='center'><i>И</i></h1>
