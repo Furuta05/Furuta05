@@ -1,4 +1,4 @@
-[![Social banner for jh3y](https://i.pinimg.com/originals/4d/55/6b/4d556b7a12b494226be5e654256ec4e9.gif)](https://jhey.dev)
+[![banner](https://i.pinimg.com/originals/4d/55/6b/4d556b7a12b494226be5e654256ec4e9.gif)]()
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Jhey.
