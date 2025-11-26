@@ -9,3 +9,5 @@
 <p align='center'>Настолько уникального прокрастинатора и бездельника вам не найти</p>
 
 <h1 align='center'><i></i></h1>
+<p1 align='center'><i>Изучаю/пишу на:</i></p1>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
