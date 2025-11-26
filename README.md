@@ -2,13 +2,16 @@
     <img src="https://i.pinimg.com/originals/4d/55/6b/4d556b7a12b494226be5e654256ec4e9.gif" />
 
 <h1 align='center'> 
-<img src="https://www.svgrepo.com/show/492503/right-arrow.svg" height="54"/></h1>
- Hi.
-<img src="https://i.pinimg.com/originals/50/55/45/505545dd2f219e82931d92a77c7ba303.gif" height="54"/></h1>
-<p align='center'>
-<i>Фурута</i>
-</p>
-<p align='center'>Настолько уникального прокрастинатора и бездельника вам не найти</p>
+  <img src="https://www.svgrepo.com/show/492487/progress-13.svg" height="35" style="vertical-align: middle;"/>
+  Hi.
+</h1>
+
+<h3 align='center'>
+    <i>Фурута</i>
+    <img src="https://i.pinimg.com/736x/52/9b/3a/529b3a47ee953a32761d4803263f894c.jpg" height="25" style="vertical-align: middle;"/>
+</h3>
+
+<h4 align='center'>Настолько уникального прокрастинатора и бездельника вам не найти</h4>
 
 <h1 align='center'><i>Изучаю/пишу на:</i></h1>
 
@@ -17,6 +20,4 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
 </div>
-<h1 align='center'><i></i></h1>
 
-https://www.svgrepo.com/show/409770/right-arrow.svg
