@@ -8,7 +8,7 @@
 </p>
 <p align='center'>Настолько уникального прокрастинатора и бездельника вам не найти</p>
 
-<h1 align='center'><i>Изучаю/пишу на:</i></h1>
+<h1><i>Изучаю/пишу на:</i></h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
