@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 </div>
 
-<h1 align='center'><i>Также использую:</i></h1>
+<h1 align='center'><i>...</i></h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="фа">
